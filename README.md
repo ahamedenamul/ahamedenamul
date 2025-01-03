@@ -58,7 +58,7 @@ solutions that make a difference.
 
 <br/>
 
-## Best Repo -
+### 🔝 Top Contributed Repo
 
 [![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/Java-Project)
 [![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/100_plus_C_Problems)
@@ -73,7 +73,7 @@ solutions that make a difference.
 <hr/>
 <br/>
 
-## Github Stats -
+## 📊 GitHub Stats:
 
 <p align="center">
   <a href="https://github.com/harun181">
@@ -93,17 +93,8 @@ solutions that make a difference.
 
 <br/>
 
-## Connect with me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mahidmunna01&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-<br/>
-<a href="https://twitter.com/tutul181" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
-</a>
-<a href="https://www.linkedin.com/in/harun181/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
-</a>
-<a href="https://www.facebook.com/tutul181" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
-</a>  
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

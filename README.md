@@ -1,30 +1,34 @@
 ![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h1 align="center">Hi there 👋, I'm Ahamed Enamul </h1>
+<h3 align="center">Programmer | Web Designer | Speed Learner</h3>
+<h4 align="center">Senior WordPress Developer at Ruwaifi Studio Ltd</h4>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=ahamedenamul&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: API Integration / Express.js / TypeScript / Node.js / Next.js / React JS / JS / Tailwind CSS / CSS / HTML
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently working on ***Ruwaifi Studio Ltd***
+- 🌱 I’m currently learning ***JavaScript***
+- 👨‍💻 All of my projects are available at [https://github.com/ahamedenamul](https://github.com/ahamedenamul)
+- 👯 I’m looking to collaborate on ***Web Development Projects***
+- 💬 Ask me about ***Web Development***
+- 📫 How to reach me: ***Google it "Ahamed Enamul"***
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: ***I Love Code***
 
-- 🌱 I’m currently learning Golang, Java, C++
+## 🤷‍♂️ About Me:
+Hi, I’m <b>Ahamed Enamul</b>, a Bangladesh's dedicated WordPress designer and web developer. With 3 years of practical
+experience, I love building custom websites that don’t just look great but also work smoothly and efficiently.
+I’m all about delivering high-quality results that meet and exceed client expectations. I focus on understanding each
+project’s unique needs, ensuring that every website I create aligns perfectly with my client’s vision. Whether you’re a
+startup looking to establish an online presence or an established business wanting a fresh look, I’m here to offer
+solutions that make a difference.
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
-
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
-
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
-
-- 📫 How to reach me **programmerharun@gmail.com**
-
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
 
 <h3 align="left">Connect with me:</h3>
 

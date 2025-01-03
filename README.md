@@ -99,5 +99,5 @@ solutions that make a difference.
 
 <br/>
 
-***Thanks***
+<h3> ***Thanks*** </h3>
 

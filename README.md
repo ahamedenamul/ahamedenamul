@@ -72,7 +72,7 @@ solutions that make a difference.
 
 ## 📊 GitHub Stats:
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ahamedenamul">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahamedenamul&theme=radical" alt="Ahamed Enamul's GitHub Contribution"/>
   </a>

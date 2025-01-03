@@ -74,7 +74,7 @@ solutions that make a difference.
 
 <p align="left">
   <a href="https://github.com/ahamedenamul">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahamedenamul&theme=radical" alt="Ahamed Enamul's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahamedenamul&theme=radical" alt="Ahamed Enamul's GitHub Contribution" width="100%"/>
   </a>
 </p>
 
